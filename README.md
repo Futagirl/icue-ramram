@@ -19,7 +19,7 @@
 2. Start it either executing  
   `icue-ramram.vbs`  
    or  
-  `npm run`
+  `npm start`
 
 ### Notes
 
