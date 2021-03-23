@@ -1,0 +1,21 @@
+{
+  "name": "cue-ramram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL3",
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "cue-sdk": "^1.6.0",
+    "windows-trayicon": "^3.0.0"
+  }
+}
